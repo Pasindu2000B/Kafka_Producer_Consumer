@@ -34,11 +34,11 @@ Kafka_Producer/
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Pasindu2000B/Kafka_Producer_Consumer.git
 cd Kafka_Producer
 ```
 
-2. Create and activate virtual environment (optional but recommended):
+2. Create and activate virtual environment:
 ```bash
 python -m venv _bimbi_kafka
 # On Windows:
