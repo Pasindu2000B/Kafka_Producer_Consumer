@@ -14,7 +14,7 @@ Kafka_Producer/
 │   └── order.avsc           # Avro schema definition
 ├── docker-compose.yml       # Docker compose configuration for Kafka setup
 ├── requirements.txt         # Python dependencies
-└── README.md               # This file
+└── README.md               
 ```
 
 ## Features
