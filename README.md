@@ -139,10 +139,3 @@ python producer/producer.py
 ### Dependency Issues
 - Reinstall requirements: `pip install -r requirements.txt --force-reinstall`
 
-## License
-
-[Add your license information here]
-
-## Contributing
-
-[Add contribution guidelines here]
